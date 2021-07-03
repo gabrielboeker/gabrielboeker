@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gabrielboeker
-- 👀 I’m interested in tech, design and product people care about
+- 👀 I’m interested in tech, design and products people care about
 - 🌱 I’m currently learning how to be patient
 - 📫 How to reach me: gabriel@perspective.co
 
